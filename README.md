@@ -13,4 +13,4 @@
 <br />
 
 <h2 align="right">ارتباط با من 📞</h2>
-<a href="https://instagram.com/dr.raziyeh_gharechahi"><img src="https://github.com/gharechahiraziyeh/gharechahiraziyeh/blob/main/icons8-instagram-windows-11-color.zip"/></a>
+<a href="https://instagram.com/dr.raziyeh_gharechahi"><img width="50px" height="50px" align="left" src="https://github.com/gharechahiraziyeh/gharechahiraziyeh/blob/main/icons8-instagram-96.png" alt="Instagram"/></a>
