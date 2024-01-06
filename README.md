@@ -24,7 +24,7 @@
 
 <br />
 
-<h2>📞 &nbsp; Conect Me</h2>
+<h2>📞 &nbsp; Connect Me</h2>
 <a href="https://instagram.com/dr.raziyeh_gharechahi"><img width="50px" height="50px" align="left" src="https://github.com/gharechahiraziyeh/gharechahiraziyeh/blob/main/icons8-instagram-96.png" alt="Instagram"/></a>
 <a href="https://t.me/gharechahiraziyeh"><img width="50px" height="50px" align="left" src="https://github.com/gharechahiraziyeh/gharechahiraziyeh/blob/main/icons8-telegram-96.png" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/gharechahiraziyeh/"><img width="50px" height="50px" align="left" src="https://github.com/gharechahiraziyeh/gharechahiraziyeh/blob/main/icons8-linkedin-96.png" alt="Linkedin"/></a>
